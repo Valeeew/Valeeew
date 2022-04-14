@@ -1,9 +1,9 @@
-<h1 align="center">Hi there👋, I'm <span style="color:#2ECC71">Valentin</span></h1>
+<h1 align="center">Hi there👋, I'm <span style="color:#2ECC71;">Valentin</span></h1>
 <h3 align="center">I'm a DATA Analyst from France</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/v-monteiro/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="https://www.linkedin.com/in/v-monteiro/"  color="#2ECC71" /></a>
+ <a href="https://www.linkedin.com/in/v-monteiro/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="https://www.linkedin.com/in/v-monteiro/"  /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
