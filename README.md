@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋, I'm <span style="color:#2ECC71;">Valentin</span></h1>
-<h3 align="center">I'm a DATA Analyst from France</h3>
+<h1 align="center">Hi there👋, I'm <strong>Valentin</strong></h1>
+<h3 align="center">I'm a <strong>DATA Analyst</strong> from France</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
