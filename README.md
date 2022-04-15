@@ -16,7 +16,7 @@
 <a href="http://sql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/sql.png" alt="SQL" /> </a>
 
 <h4>Other Languages</h4>
-<h5>HTML</h5><img src="https://github.com/Valeeew/Valeeew/blob/main/svg/html.png" alt="HTML" />
+<h5>HTML<img src="https://github.com/Valeeew/Valeeew/blob/main/svg/html.png" alt="HTML" /></h5>
 <h5>CSS</h5><img src="https://github.com/Valeeew/Valeeew/blob/main/svg/css.png" alt="CSS" />
 <h5>Javascript</h5><img src="https://github.com/Valeeew/Valeeew/blob/main/svg/javascript.png" alt="javascript" />
 
