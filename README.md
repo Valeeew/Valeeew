@@ -30,3 +30,6 @@
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/colab.png" alt="colab"/> </a>
 <a href="https://www.anaconda.com/products/distribution" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/Anaconda.png" alt="anaconda"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/postgre.png" alt="postgresql"/> </a>
+<br>
+<a href="https://www.knime.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/knime.png" alt="knime"/> </a>
+<a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/tableau.png" alt="tableau"/> </a>
