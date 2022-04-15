@@ -3,7 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/v-monteiro/" target="blank"><img align="center" src="https://github.com/Valeeew/Valeeew/blob/main/svg/linkedin.png" alt="https://www.linkedin.com/in/v-monteiro/"  /></a>
+<a href="https://www.linkedin.com/in/v-monteiro/" target="blank"><img align="center" src="https://github.com/Valeeew/Valeeew/blob/main/svg/linkedin.png" alt="https://www.linkedin.com/in/v-monteiro/"  /></a>
+<a href="https://wa.me/qr/V7QVTXDMZPNPB1" target="blank"><img align="center" src="https://github.com/Valeeew/Valeeew/blob/main/svg/whatsapp.png" alt="https://wa.me/qr/V7QVTXDMZPNPB1"  />
 </p>
 
 <h3 align="left">Languages:</h3>
