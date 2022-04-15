@@ -25,5 +25,6 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/seaborn.png" alt="seaborn" /> </a>
 </p>
 
-
+<h3 align="left">Tools & Software</h3>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/jupyter.png" alt="jupyter"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/postgre.png" alt="postgresql"/> </a>
