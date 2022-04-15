@@ -27,4 +27,6 @@
 
 <h3 align="left">Tools & Software</h3>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/jupyter.png" alt="jupyter"/> </a>
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/colab.png" alt="colab"/> </a>
+<a href="https://www.anaconda.com/products/distribution" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/Anaconda.png" alt="anaconda"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/postgre.png" alt="postgresql"/> </a>
