@@ -18,5 +18,8 @@
 <h4>Other Languages</h4>
 <p><img src="https://github.com/Valeeew/Valeeew/blob/main/svg/html.png" alt="HTML" /> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/css.png" alt="CSS" /> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/javascript.png" alt="javascript" /></p>
 
-<h3 align="left"> Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/pandas.png" alt="pandas" /> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<h3 align="left"> Library:</h3>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/pandas.png" alt="pandas" /> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/seaborn.png" alt="seaborn" width="40" height="40"/> </a> </p>
+
+
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/postgre.png" alt="postgresql"/> </a>
