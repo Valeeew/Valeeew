@@ -19,7 +19,11 @@
 <p><img src="https://github.com/Valeeew/Valeeew/blob/main/svg/html.png" alt="HTML" /> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/css.png" alt="CSS" /> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/javascript.png" alt="javascript" /></p>
 
 <h3 align="left"> Library:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/pandas.png" alt="pandas" /> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/seaborn.png" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/pandas.png" alt="pandas" /> </a> 
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/numpy.png" alt="numpy" /> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/matplotlib.png" alt="matplotlib" /> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/seaborn.png" alt="seaborn" /> </a>
+</p>
 
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Valeeew/Valeeew/blob/main/svg/postgre.png" alt="postgresql"/> </a>
