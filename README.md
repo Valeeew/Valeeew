@@ -1,6 +1,16 @@
 <h1 align="center">Hi there👋, I'm Valentin</h1>
 <h3 align="center">I'm a DATA Analyst from France 🇫🇷</h3>
 
+- 🔭 I’m currently working on **my DATA analyst certification**
+
+- 👯 I’m looking to collaborate on **a fintech company**
+
+- 👨‍💻 All of my projects are available at [https://valeeew.github.io/](https://valeeew.github.io/)
+
+- 💬 Ask me about **python, pandas, knime...**
+
+- ⚡ Fun fact **my dad thought he was hacked, but I just removed his access to his computer using the fail-safe mode so I could play the video game**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/v-monteiro/" target="blank"><img align="center" src="https://github.com/Valeeew/Valeeew/blob/main/svg/linkedin.png" alt="https://www.linkedin.com/in/v-monteiro/"  /></a>
