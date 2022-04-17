@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python, pandas, knime...**
 
-- ⚡ Fun fact **my dad thought he was hacked, but I just removed his access to his computer using the fail-safe mode so I could play the video game**
+- ⚡ Fun fact : **When i was a child, my dad thought he was hacked, but I just removed his access to his computer using the fail-safe mode so I could play the video game 🕹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
