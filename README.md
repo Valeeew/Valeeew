@@ -1,13 +1,11 @@
 <h1 align="center">Hi there👋, I'm Valentin</h1>
-<h3 align="center">I'm a DATA Analyst from France 🇫🇷</h3>
+<h3 align="center">I'm looking for a work-study contract as ML engineer </h3>
 
-- 🔭 I’m currently working on **my DATA analyst certification**
-
-- 👯 I’m looking to collaborate on **a fintech company**
+- 🔭 I’m currently working on **ML engineer certification**
 
 - 👨‍💻 All of my projects are available at [https://valeeew.github.io/](https://valeeew.github.io/)
 
-- 💬 Ask me about **python, pandas, knime...**
+- 💬 Ask me about **python, pandas, scikit-learn, ML...**
 
 - ⚡ Fun fact : **When i was a child, my dad thought he was hacked, but I just removed his access to his computer using the fail-safe mode so I could play the video game 🕹**
 
