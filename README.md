@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **ML engineer certification**
 
-- 👨‍💻 All of my projects are available at [https://valeeew.github.io/](https://valeeew.github.io/)
-
 - 💬 Ask me about **python, pandas, scikit-learn, ML...**
 
 - ⚡ Fun fact : **When i was a child, my dad thought he was hacked, but I just removed his access to his computer using the fail-safe mode so I could play the video game 🕹**
