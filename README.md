@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Valentin</h1>
 <h3 align="center">I'm looking for a work-study contract as ML engineer </h3>
 
-- 🔭 I’m currently working on **ML engineer certification**
+- 🔭 I’m currently working **Data Analyst** on behalf of **Google**
 
 - 💬 Ask me about **python, pandas, scikit-learn, ML...**
 
